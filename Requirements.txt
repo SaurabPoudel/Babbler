@@ -1,0 +1,10 @@
+You can change config.php as per your connection
+Default:
+About Database:
+servername:localhost
+user: root
+password: #{NULL}
+Databae Name : login
+Table Name: users
+Fields: id , username,password,current_date (username and password are mandatory)
+
